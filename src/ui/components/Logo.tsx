@@ -15,11 +15,11 @@ export const Logo = () => {
 			</h1>
 		);
 	}
-	return (
-		<div className="flex items-center font-bold">
-			<LinkWithChannel aria-label="homepage" href="/">
-				{companyName}
-			</LinkWithChannel>
-		</div>
-	);
+	// return (
+	// 	<div className="flex items-center font-bold">
+	// 		<LinkWithChannel aria-label="homepage" href="/">
+	// 			{companyName}
+	// 		</LinkWithChannel>
+	// 	</div>
+	// );
 };
