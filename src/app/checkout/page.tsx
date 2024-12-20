@@ -2,7 +2,7 @@ import { invariant } from "ts-invariant";
 import { RootWrapper } from "./pageWrapper";
 
 export const metadata = {
-	title: "Checkout · Saleor Storefront example",
+	title: "Checkout · Tetê Moda Infantil",
 };
 
 export default function CheckoutPage({
